@@ -2,6 +2,8 @@
 Nesse projeto consumimos o backend local, feito com NodeJS + Prisma + Express + PostgreSQL + Docker, usamos o axios 
 para consumir a API localmente.
 
+## Repo do backend: https://github.com/AndersonD4vid/backend-todo-list
+
 ## Funcionalidades
 - Criar um tarefa
 - Deletar uma tarefa
